@@ -1,5 +1,6 @@
 # Chicken-Disease-Classification--Project
 
+![Chicken Disease Classification](Deeplearninginput.png)
 
 ## Workflows
 
